@@ -4,7 +4,7 @@ It also uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-ap
 
 
 # GIF
-![LLM APP](/assets/video_large.gif)
+![LLM APP](/assets/video_gif.gif)
 
 ## How to run the project
 
