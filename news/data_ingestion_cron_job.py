@@ -10,12 +10,9 @@ from newsapi_helper import send_request
 
 # Example usage
 
+data_dir = "./news"
 
-
-data_dir = "../news"
-
-parameter= os.get.environ("PARAMETER","")
-
+parameter= os.environ.get("PARAMETER","")
 search_parameters = {"q": parameter, "pageSize": 30}  
 send_request(data_dir,search_parameters)
 
