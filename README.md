@@ -1,8 +1,10 @@
 # NEWS_GPT
 AI app to find real-time latest market news from various News Articles using the NEWS API.
+It also uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build real-time LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources, leverages OpenAI API [Embeddings](https://platform.openai.com/docs/api-reference/embeddings) and [Chat Completion](https://platform.openai.com/docs/api-reference/completions) endpoints to generate AI assistant responses.
+
 
 # GIF
-https://github.com/hardikp18/NEWS_GPT/blob/main/assets/video.gif
+![LLM APP](/assets/video_large.gif)
 
 ## How to run the project
 
@@ -28,7 +30,7 @@ Then, follow the easy steps to install and get started using the sample app.
 This is done with the `git clone` command followed by the URL of the repository:
 
 ```bash
-git clone [https://github.com/Boburmirzo/chatgpt-api-python-sales.git](https://github.com/hardikp18/NEWS_GPT.git)
+git clone [https://github.com/hardikp18/NEWS_GPT.git](https://github.com/hardikp18/NEWS_GPT.git)
 ```
 
 Next,  navigate to the project folder:
