@@ -1,3 +1,4 @@
+import os
 from newsapi_helper import send_request
 
 # params = {
