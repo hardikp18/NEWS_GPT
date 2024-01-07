@@ -3,8 +3,8 @@ AI app to find real-time latest market news from various News Articles using the
 It also uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build real-time LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources, leverages OpenAI API [Embeddings](https://platform.openai.com/docs/api-reference/embeddings) and [Chat Completion](https://platform.openai.com/docs/api-reference/completions) endpoints to generate AI assistant responses.
 
 
-# GIF
-![LLM APP](/assets/video_gif.gif)
+
+![NEWS_GPT APP](/assets/video_gif.gif)
 
 ## How to run the project
 
