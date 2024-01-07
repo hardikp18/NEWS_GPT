@@ -13,6 +13,8 @@ from newsapi_helper import send_request
 
 data_dir = "../news"
 
-search_parameters = {"q": "Microsoft", "pageSize": 30}  
+parameter= os.get.environ("PARAMETER","")
+
+search_parameters = {"q": parameter, "pageSize": 30}  
 send_request(data_dir,search_parameters)
 
