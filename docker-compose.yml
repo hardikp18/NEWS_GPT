@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-  chatgpt-api-python-sales:
+  newsgpt-ui-api-python:
     build:
       context: ./
       dockerfile: Dockerfile
