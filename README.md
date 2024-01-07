@@ -5,7 +5,7 @@ It also uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-ap
 
 
 
-![NEWS_GPT APP](/assets/video_gif.gif)
+![NEWS_GPT APP](/assets/video_v2.gif)
 
 ## How to run the project
 
