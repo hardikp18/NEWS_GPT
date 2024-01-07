@@ -14,7 +14,7 @@ Example only supports Unix-like systems (such as Linux, macOS, BSD). If you are 
 ### Run with Docker
 
 1. [Set environment variables](#step-2-set-environment-variables)
-2. From the project root folder, open your terminal and run `docker compose up`.
+2. From the project root folder, open your terminal and run `docker compose up --build`.
 3. Navigate to `localhost:8501` on your browser when docker installion is successful.
 
 ### Prerequisites
